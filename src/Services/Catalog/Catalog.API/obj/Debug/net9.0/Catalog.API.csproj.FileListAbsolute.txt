@@ -26,3 +26,13 @@
 /Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/obj/Debug/net9.0/Catalog.API.pdb
 /Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/obj/Debug/net9.0/Catalog.API.genruntimeconfig.cache
 /Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/obj/Debug/net9.0/ref/Catalog.API.dll
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/bin/Debug/net9.0/MediatR.dll
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/bin/Debug/net9.0/MediatR.Contracts.dll
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/bin/Debug/net9.0/BuildingBlocks.dll
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/bin/Debug/net9.0/BuildingBlocks.pdb
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/obj/Debug/net9.0/Catalog.API.csproj.AssemblyReference.cache
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/Services/Catalog/Catalog.API/obj/Debug/net9.0/Catalog..F07FDCDC.Up2Date

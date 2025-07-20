@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		compose.yaml = compose.yaml
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlock", "BuildingBlock", "{48908BAA-F179-4EE8-8969-8DB343284D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildingBlocks", "BuildingBlock\BuildingBlocks\BuildingBlocks.csproj", "{E010DB89-9873-42FE-B7E4-32AB3161777C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,11 +23,16 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{FD69B957-59CB-4303-9A32-F2F01CDA5F59} = {F77FFE19-7AC5-4AB7-972F-70BD7EBD007D}
 		{62F6B1EE-1BCA-4C1F-8256-71615CC5C1DE} = {FD69B957-59CB-4303-9A32-F2F01CDA5F59}
+		{E010DB89-9873-42FE-B7E4-32AB3161777C} = {48908BAA-F179-4EE8-8969-8DB343284D16}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{62F6B1EE-1BCA-4C1F-8256-71615CC5C1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{62F6B1EE-1BCA-4C1F-8256-71615CC5C1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62F6B1EE-1BCA-4C1F-8256-71615CC5C1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62F6B1EE-1BCA-4C1F-8256-71615CC5C1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E010DB89-9873-42FE-B7E4-32AB3161777C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E010DB89-9873-42FE-B7E4-32AB3161777C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E010DB89-9873-42FE-B7E4-32AB3161777C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E010DB89-9873-42FE-B7E4-32AB3161777C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

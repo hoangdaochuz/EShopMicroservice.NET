@@ -1,0 +1,13 @@
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/bin/Debug/net9.0/BuildingBlocks.deps.json
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/bin/Debug/net9.0/BuildingBlocks.dll
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/bin/Debug/net9.0/BuildingBlocks.pdb
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.csproj.AssemblyReference.cache
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.AssemblyInfoInputs.cache
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.AssemblyInfo.cs
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.csproj.CoreCompileInputs.cache
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.sourcelink.json
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.dll
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/obj/Debug/net9.0/refint/BuildingBlocks.dll
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/obj/Debug/net9.0/BuildingBlocks.pdb
+/Users/nguyenhuukhai/study/net_microservice/EShopMicroservice.NET/src/BuildingBlock/BuildingBlocks/obj/Debug/net9.0/ref/BuildingBlocks.dll
